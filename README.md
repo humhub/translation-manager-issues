@@ -1,2 +1,6 @@
-# translation-manager-issues
-Professional Edition only - Issue Tracker
+# Translation Manager
+
+**Issue tracker repository** for the **HumHub - Professional Edition** module **Translation Manager**. 
+
+
+More Information: [Translation Manager](https://www.humhub.com/en/marketplace/translation-manager/)
